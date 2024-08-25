@@ -10,9 +10,7 @@ calligraplan est un logiciel utilisant le framework kde, ce qui rends sa portabi
 
 Je ne trouve pas à mon sens d'outil open-source pour la gestion de planning. J'ai essayé la version courante qui me semble pas mal. En fait c'est une des rares en open-source qui permettent de repartir la charge entre ressources. La plupart des outils que j'ai vu ne le font pas, ou alors dans une variante payante.
 
-
-## Compilation sous Linux - Utilisation kdesrc-build 
-
+## Compilation sous Linux - Utilisation de kdesrc-build
 
 C'est l'outil principal qui permet de compiler les applications kde sous Linux.
 
@@ -32,7 +30,7 @@ ln -sd ~/.local/share/kdesrc-build/kdesrc-build ~/.local/bin/
 echo $PATH
 ```
 
-Modifier le fichier ~/.bashrc si besoin et insérer:
+Modifier le fichier `~/.bashrc` si besoin (et si vous êtes sous bash) et insérer:
 
 ```
 export PATH=~/.local/bin:$PATH
@@ -69,5 +67,5 @@ Initialiser le fichier de configuration globale, il est sous `~/.config/kdesrc-b
 (cf. kdesrc-buildrc)
 
 
+## Compilation sous Windows
 
-Compilation sous Windows
