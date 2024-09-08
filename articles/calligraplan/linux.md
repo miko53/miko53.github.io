@@ -173,5 +173,6 @@ Dans le répertoire build:
 . prefix.sh
 export KDEHOME=/home/[user]/projects/kde/kde_home/
 cd calligraplan/build
+./bin/calligraplan
 ```
 
