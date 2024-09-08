@@ -17,7 +17,3 @@ Je ne trouve pas à mon sens d'outil open-source pour la gestion de planning. J'
  - [Compilation sous Linux](linux.md)
  - [Compilation sous Windows](windows.md)
 
-
-
-## Compilation sous Windows
-

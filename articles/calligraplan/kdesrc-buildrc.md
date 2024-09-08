@@ -6,6 +6,8 @@ title: kdesrc-buildrc
 Ce fichier est autogénéré
 
 L'important la branche `kf5-qt5` et les emplacements `~/project/...`
+J'ai préfixé les path avec ~/projects
+Et le champ: module-definitions-dir
 
 ~~~
 
